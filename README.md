@@ -13,7 +13,7 @@
   - [**Preparing Active Directory Infrastructure with Azure Virtual Machines**](https://github.com/cyberchris010/ad-prepare) 
   - [**Deploying Active Directory with Azure Virtual Machines**](https://github.com/cyberchris010/ad-deploy)
   - [**Creating Users in Active Directory with PowerShell**](https://github.com/cyberchris010/ad-users)
-  - [**Managing User Accounts and Password Resets in Active Directory**](https://github.com/cyberchris010/ad-accounts)
+  - [**Managing Accounts and Password Resets in Active Directory**](https://github.com/cyberchris010/ad-accounts)
   - [**Configuring Network File Shares and Permissions in Active Directory**](https://github.com/cyberchris010/ad-permissions)
   - [**Understanding DNS with Active Directory**](https://github.com/cyberchris010/ad-dns)
 - <b>Virtual Private Networks (VPNs)</b> 🌐
