@@ -6,9 +6,9 @@
   - [**Creating and Deleting Resources in Microsoft Azure**](https://github.com/cyberchris010/azure-resources)
   - [**Inspecting Network Protocols with Azure Virtual Machines, PowerShell, and Wireshark**](https://github.com/cyberchris010/azure-protocols)
 - <b>osTicket (Help Desk Ticketing System)</b> 🏷️
-  - [**osTicket: Prerequisites and Installation**](https://github.com/cyberchris010/osticket-prereqs)
-  - [**osTicket: Post-Installation Configuration**](https://github.com/cyberchris010/osticket-config)
-  - [**osTicket: Ticket Lifecycle Examples**](https://github.com/cyberchris010/osticket-lifecycle)
+  - [**osTicket - Prerequisites and Installation**](https://github.com/cyberchris010/osticket-prereqs)
+  - [**osTicket - Post-Installation Configuration**](https://github.com/cyberchris010/osticket-config)
+  - [**osTicket - Ticket Lifecycle Examples**](https://github.com/cyberchris010/osticket-lifecycle)
 - <b>Active Directory</b> 🔐
   - [**Preparing Active Directory Infrastructure with Azure Virtual Machines**](https://github.com/cyberchris010/ad-prepare) 
   - [**Deploying Active Directory with Azure Virtual Machines**](https://github.com/cyberchris010/ad-deploy)
