@@ -18,3 +18,4 @@
   - [**Understanding DNS with Active Directory**](https://github.com/cyberchris010/ad-dns)
 - <b>Virtual Private Networks (VPNs)</b> 🌐
   - [**VPN Setup and Usage (Proton VPN) within an Azure Virtual Machine**](https://github.com/cyberchris010/vpn-deploy)
+<hr style="border:2px solid gray">
