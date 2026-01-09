@@ -17,7 +17,7 @@ Results-driven, adaptable IT professional with hands-on experience in system adm
 
 - <h3>🏷️ osTicket (Help Desk Ticketing System)</h3>
 
-  - Conducted technical demonstrations and hands-on simulations of cloud-based osTicket Help Desk implementation, including Help Desk ticketing system administration, ticket lifecycle management, ticket prioritization and escalation, technical documentation, customer service, and end-user support:
+  - Conducted technical demonstrations and hands-on simulations of cloud-based osTicket Help Desk implementation, including scenario-based Help Desk ticketing system administration, ticket lifecycle management, ticket prioritization and escalation, technical documentation, customer service, and end-user support:
   
     - [**osTicket - Prerequisites and Installation**](https://github.com/cyberchris010/osticket-prereqs)
     
