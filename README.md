@@ -6,7 +6,7 @@ Results-driven, adaptable IT professional with hands-on experience in system adm
 
 - <h3>☁️ Microsoft Azure & Network Troubleshooting 🕵️‍♂️</h3>
 
-  - Cloud-based demonstration, using Azure Virtual Machines, Windows Server, Ubuntu Server, Powershell, and Wireshark to simulate network troubleshooting and network security fundamentals:
+  - Demonstrations leveraging Azure cloud infrastructure, Azure Virtual Machines, Windows Server, Ubuntu Server, Powershell, and Wireshark, to simulate network troubleshooting and network security fundamentals:
   
     - [**Creating and Deleting Resources in Microsoft Azure**](https://github.com/cyberchris010/azure-resources)
     
@@ -17,7 +17,7 @@ Results-driven, adaptable IT professional with hands-on experience in system adm
 
 - <h3>🏷️ osTicket (Help Desk Ticketing System)</h3>
 
-  - Practical implementation of a Help Desk Ticketing system simulating real-world IT support, incident management, and ticket lifecycle workflows, including role-based access and escalation:
+  - Conducted technical demonstrations and hands-on simulations of cloud-based osTicket Help Desk implementation, including Help Desk ticketing system administration, ticket lifecycle management, ticket prioritization and escalation, technical documentation, and customer service & end-user support:
   
     - [**osTicket - Prerequisites and Installation**](https://github.com/cyberchris010/osticket-prereqs)
     
@@ -30,7 +30,7 @@ Results-driven, adaptable IT professional with hands-on experience in system adm
 
 - <h3>🔐 Active Directory Administration, Identity & Access Management (IAM), DNS Troubleshooting</h3>
 
-   - Cloud-based installation and deployment of Active Directory and Active Directory Domain Services on Windows Server, including Help Desk simulations of user creation, role assignments, security group management, user permissions, file share management, DNS integration, and DNS troubleshooting:
+   - Executed step-by-step technical tutorials for the installation and deployment of Active Directory (AD) and Active Directory Domain Services (AD DS) on Windows Server, including scenario-based Help Desk simulations covering user creation, role assignments, security group management, user permissions, file share management, DNS integration, and DNS troubleshooting:
   
       - [**Preparing Active Directory Infrastructure with Azure Virtual Machines**](https://github.com/cyberchris010/ad-prepare)
       
@@ -50,10 +50,10 @@ Results-driven, adaptable IT professional with hands-on experience in system adm
     
 - <h3>🛡️ Virtual Private Networks (VPNs)</h3>
 
-  - Practical implementation of Virtual Private Network (VPN) client software in a Microsoft Windows Azure Virtual Machine:
+  - Practical implementation, installation, configuration, and management of Virtual Private Network (VPN) client software on a Microsoft 10 Windows Azure Virtual Machine, including VPN connectivity testing and troubleshooting VPN connectivity and performance issues:
   
       - [**VPN Setup and Usage (Proton VPN) within an Azure Virtual Machine**](https://github.com/cyberchris010/vpn-deploy)
  
-  - **Key Skills Demonstrated:** Azure Compute, Azure Resource Groups, Azure Virtual Machines, macOS, RDP (Remote Desktop Protocol), Microsoft Windows 10 / Windows 11, Software Installation, Desktop Application Support, Virtual Private Networks (VPNs), VPN Client Installation & Configuration (Windows), Windows VPN Troubleshooting, Remote Access VPN, VPN Client Software Support, Network Troubleshooting, Connectivity Troubleshooting, TCP/IP Protocol Suite, OSI Model, Endpoint Security & Compliance, Identity & Access Management (IAM), Technical Documentation, Knowledge Base Development & Maintenance, Process Mapping, Technical Diagram Creation, System Architecture & Network Diagramming
+  - **Key Skills Demonstrated:** Azure Compute, Azure Resource Groups, Azure Virtual Machines, macOS, RDP (Remote Desktop Protocol), Microsoft Windows 10 / Windows 11, Software Installation, Desktop Application Support, Virtual Private Networks (VPNs), VPN Client Installation & Configuration (Windows), Windows VPN Troubleshooting, Remote Access VPN, VPN Client Software Support, Network Troubleshooting, Connectivity Troubleshooting, TCP/IP Protocol Suite, OSI Model, Endpoint Security & Compliance, Identity & Access Management (IAM), Remote Access Administration, Secure Remote Access, Data Privacy, Technical Documentation, Knowledge Base Development & Maintenance, Process Mapping, Technical Diagram Creation, System Architecture & Network Diagramming
     
 ---
