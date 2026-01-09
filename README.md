@@ -6,7 +6,7 @@ Results-driven, adaptable IT professional with hands-on experience in system adm
 
 - <h3>☁️ Microsoft Azure</h3>
 
-  - Cloud-based projects using Azure virtual machines to simulate identity management, networking, and security fundamentals:
+  - Cloud-based projects using Azure virtual machines to simulate identity management, network troubleshooting, and security fundamentals:
   
     - [**Creating and Deleting Resources in Microsoft Azure**](https://github.com/cyberchris010/azure-resources)
     
