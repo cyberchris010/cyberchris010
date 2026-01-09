@@ -25,7 +25,7 @@ Results-driven, adaptable IT professional with hands-on experience in system adm
     
     - [**osTicket - Ticket Lifecycle Examples**](https://github.com/cyberchris010/osticket-lifecycle)
  
-  - **Key Skills Demonstrated:** macOS, RDP, Azure Resource Groups, Azure Virtual Machines, Microsoft Windows, Software Installation, Internet Information Services (IIS), Help Desk & Ticketing Systems, Service Level Agreements (SLAs), Ticket Prioritization, Help Desk Support, User Support, Desktop Support, Communication, Customer Service, Empathy, Documentation, Technical Writing, Research Skills, Project Management, Troubleshooting
+  - **Key Skills Demonstrated:** macOS, RDP, Azure Resource Groups, Azure Virtual Machines, Microsoft Windows, Software Installation, Internet Information Services (IIS), Help Desk & Ticketing Systems, Service Level Agreements (SLAs), Ticket Prioritization, Help Desk Support, User Support, Desktop Support, Communication, Customer Service, Empathy, Documentation, Technical Writing, Research Skills, Project Management, Troubleshooting, Problem Solving
 
 ---
 
