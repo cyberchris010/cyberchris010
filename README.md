@@ -6,7 +6,7 @@ Results-driven, adaptable IT professional with hands-on experience in system adm
 
 - <h3>☁️ Microsoft Azure & Network Troubleshooting 🕵️‍♂️</h3>
 
-  - Demonstrations leveraging Azure cloud infrastructure, Azure Virtual Machines, Windows Server, Ubuntu Server, Powershell, and Wireshark, to simulate network troubleshooting and network security fundamentals:
+  - Created, deployed, and managed Azure resources and performed network traffic analysis between Azure Virtual Machines using PowerShell, Wireshark, and Network Security Groups (NSGs), applying cloud networking and security best practices to monitor and secure inter-VM connectivity:
   
     - [**Creating and Deleting Resources in Microsoft Azure**](https://github.com/cyberchris010/azure-resources)
     
@@ -17,7 +17,7 @@ Results-driven, adaptable IT professional with hands-on experience in system adm
 
 - <h3>🏷️ osTicket (Help Desk Ticketing System)</h3>
 
-  - Conducted technical demonstrations and hands-on simulations of cloud-based osTicket Help Desk implementation, including Help Desk ticketing system administration, ticket lifecycle management, ticket prioritization and escalation, technical documentation, and customer service & end-user support:
+  - Conducted technical demonstrations and hands-on simulations of cloud-based osTicket Help Desk implementation, including Help Desk ticketing system administration, ticket lifecycle management, ticket prioritization and escalation, technical documentation, customer service, and end-user support:
   
     - [**osTicket - Prerequisites and Installation**](https://github.com/cyberchris010/osticket-prereqs)
     
@@ -28,7 +28,7 @@ Results-driven, adaptable IT professional with hands-on experience in system adm
   - **Key Skills Demonstrated:** macOS, RDP (Remote Desktop Protocol), Azure Resource Groups, Azure Virtual Machines, Microsoft Windows 10 / Windows 11, Software Installation, Internet Information Services (IIS), IIS Web Server Configuration, PHP Configuration on Windows, MySQL / MariaDB Database Administration, HeidiSQL Database Management, Database Schema Creation & Configuration, Web Application Deployment (Windows), Firewall & Port Configuration (Azure / Windows), Application Configuration & Troubleshooting, IT Service Management (ITSM) Tools, osTicket, Help Desk Ticketing System Administration, Help Desk Ticket Management, Incident Management & Ticket Lifecycle Management, Service Level Agreements (SLA) Management, Ticket Prioritization & Escalation, Customer Service & End-User Support, Empathy, Research Skills, Project Management, Troubleshooting, Problem Solving, Technical Communication, Technical Documentation & Standard Operating Procedures (SOPs), Knowledge Base Development & Maintenance, Process Mapping
 ---
 
-- <h3>🔐 Active Directory Administration, Identity & Access Management (IAM), DNS Troubleshooting</h3>
+- <h3>🔐 Active Directory, Identity & Access Management (IAM) & DNS Troubleshooting</h3>
 
    - Executed step-by-step technical tutorials for the installation and deployment of Active Directory (AD) and Active Directory Domain Services (AD DS) on Windows Server, including scenario-based Help Desk simulations covering user creation, role assignments, security group management, user permissions, file share management, DNS integration, and DNS troubleshooting:
   
@@ -48,9 +48,9 @@ Results-driven, adaptable IT professional with hands-on experience in system adm
 
  ---
     
-- <h3>🛡️ Virtual Private Networks (VPNs)</h3>
+- <h3>🛡️ Implementing Virtual Private Networks (VPNs)</h3>
 
-  - Practical implementation, installation, configuration, and management of Virtual Private Network (VPN) client software on a Microsoft 10 Windows Azure Virtual Machine, including VPN connectivity testing and troubleshooting VPN connectivity and performance issues:
+  - Practical implementation, installation, configuration, and management of Virtual Private Network (VPN) client software on a Microsoft 10 Windows Azure Virtual Machine, including VPN connectivity testing and troubleshooting:
   
       - [**VPN Setup and Usage (Proton VPN) within an Azure Virtual Machine**](https://github.com/cyberchris010/vpn-deploy)
  
