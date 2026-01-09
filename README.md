@@ -4,7 +4,7 @@ Results-driven, adaptable IT professional with hands-on experience in system adm
 
 <h2>👨‍💻 Information Technology Projects:</h2>  
 
-- <h3>☁️ Microsoft Azure</h3>
+- <h3>☁️ Microsoft Azure | 🌐 Network Troubleshooting</h3>
 
   - Cloud-based projects using Azure virtual machines to simulate identity management, network troubleshooting, and security fundamentals:
   
@@ -50,7 +50,7 @@ Results-driven, adaptable IT professional with hands-on experience in system adm
 
  ---
     
-- <h3>🌐 Virtual Private Networks (VPNs)</h3>
+- <h3>🌎 Virtual Private Networks (VPNs)</h3>
 
   - Practical implementation of Virtual Private Network (VPN) client software in a Microsoft Windows Azure Virtual Machine:
   
