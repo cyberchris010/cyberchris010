@@ -12,7 +12,7 @@ Results-driven, adaptable IT professional with hands-on experience in system adm
     
     - [**Inspecting Network Protocols with Azure Virtual Machines, PowerShell, and Wireshark**](https://github.com/cyberchris010/azure-protocols)
     
-    - **Key Skills Demonstrated:** Cloud Computing, Cloud Infrastructure, Azure Compute, Azure Resource Groups, Azure Virtual Machines, VNets, Windows Server Administration, Microsoft Windows 10, Windows 11, Ubuntu Server, Linux Server, macOS, PowerShell, Wireshark, Packet Analysis, Network Security Groups (NSGs), Network Troubleshooting, Connectivity Troubleshooting, TCP/IP Protocol Suite, OSI Model, ICMP (Internet Control Message Protocol), SSH (Secure Shell), DHCP (Dynamic Host Control Protocol), DNS (Domain Name System), RDP (Remote Desktop Protocol), Technical Documentation, Knowledge Base Development & Maintenance, Process Mapping, Technical Diagram Creation, System Architecture & Network Diagramming
+    - **Key Skills Demonstrated:** Cloud Computing & Azure (VMs, Resource Groups, VNets), Windows Server, Windows 10/11, Ubuntu/Linux Server, macOS, PowerShell, Network Troubleshooting & Packet Analysis (Wireshark, TCP/IP, OSI Model, ICMP, DHCP, DNS, SSH, RDP), Network Security Groups (NSGs), Technical Documentation, Knowledge Base Development, Process Mapping, System & Network Diagramming
 
 ---
 
@@ -26,7 +26,7 @@ Results-driven, adaptable IT professional with hands-on experience in system adm
     
     - [**osTicket - Ticket Lifecycle Examples**](https://github.com/cyberchris010/osticket-lifecycle)
  
-    - **Key Skills Demonstrated:** macOS, RDP (Remote Desktop Protocol), Azure Resource Groups, Azure Virtual Machines, Microsoft Windows 10, Windows 11, Software Installation, Internet Information Services (IIS), IIS Web Server Configuration, PHP Configuration on Windows, MySQL / MariaDB Database Administration, HeidiSQL Database Management, Database Schema Creation & Configuration, Web Application Deployment (Windows), Firewall & Port Configuration (Azure / Windows), Application Configuration & Troubleshooting, IT Service Management (ITSM) Tools, osTicket, Help Desk Ticketing System Administration, Help Desk Ticket Management, Incident Management & Ticket Lifecycle Management, Service Level Agreements (SLA) Management, Ticket Prioritization & Escalation, Customer Service & End-User Support, Empathy, Research Skills, Project Management, Troubleshooting, Problem Solving, Technical Communication, Technical Documentation & Standard Operating Procedures (SOPs), Knowledge Base Development & Maintenance, Process Mapping
+    - **Key Skills Demonstrated:** macOS, Windows 10/11, RDP, Azure Virtual Machines & Resource Groups, IIS Web Server Configuration, PHP & MySQL/MariaDB Administration, Database Schema Design, HeidiSQL, Web Application Deployment (Windows), Firewall & Port Configuration, Application Troubleshooting, IT Service Management (ITSM), osTicket, Help Desk Administration, Incident & Ticket Lifecycle Management, SLA Management, Ticket Prioritization & Escalation, End-User Support, Technical Documentation & SOPs, Knowledge Base Development, Process Mapping, Project Management, Technical Communication, Problem Solving, Troubleshooting
 ---
 
 - <h3>🔐 Active Directory, Identity & Access Management (IAM), DNS Troubleshooting</h3>
@@ -45,7 +45,7 @@ Results-driven, adaptable IT professional with hands-on experience in system adm
       
       - [**Understanding DNS with Active Directory**](https://github.com/cyberchris010/ad-dns)
  
-      - **Key Skills Demonstrated:** Azure Virtual Machines, Windows Server, Windows 10/11, macOS, RDP, Active Directory (AD DS), Domain Controller Deployment, User & Group Management, Organizational Unit (OU) Design, Group Policy Objects (GPO), AD Security & Hardening, Role-Based Access Control (RBAC), NTFS & File Share Permissions, Access Control Lists (ACLs), Identity & Access Management (IAM), Authentication & Authorization, Password & Account Management, PowerShell Scripting for AD & Automation, DNS Management & Troubleshooting, Network & Connectivity Troubleshooting, Microsoft Event Viewer Log Analysis, Technical Documentation, Knowledge Base Maintenance, Process Mapping, System & Network Diagramming
+      - **Key Skills Demonstrated:** Azure Virtual Machines, Windows Server, Windows 10/11, macOS, RDP, Active Directory (AD DS) Administration, Domain Controller Deployment, User & Group Management, Organizational Unit (OU) Design, Group Policy Objects (GPO), Active Directory Security & Hardening, Role-Based Access Control (RBAC), NTFS & File Share Permissions, Access Control Lists (ACLs), Identity & Access Management (IAM), Authentication & Authorization, Password & Account Management, DNS Management & Troubleshooting, Network & Connectivity Troubleshooting, Microsoft Event Viewer Analysis, PowerShell Scripting & Automation, Technical Documentation, Knowledge Base Development, Process Mapping, System & Network Diagramming
 
  ---
     
@@ -55,5 +55,5 @@ Results-driven, adaptable IT professional with hands-on experience in system adm
   
       - [**VPN Setup and Usage (Proton VPN) within an Azure Virtual Machine**](https://github.com/cyberchris010/vpn-deploy)
  
-    - **Key Skills Demonstrated:** Azure Compute, Azure Resource Groups, Azure Virtual Machines, macOS, RDP (Remote Desktop Protocol), Microsoft Windows 10, Windows 11, Software Installation, Desktop Application Support, Virtual Private Networks (VPNs), VPN Client Installation & Configuration (Windows), Windows VPN Troubleshooting, Remote Access VPN, VPN Client Software Support, Network Troubleshooting, Connectivity Troubleshooting, TCP/IP Protocol Suite, OSI Model, Endpoint Security & Compliance, Identity & Access Management (IAM), Remote Access Administration, Secure Remote Access, Data Privacy, Technical Documentation, Knowledge Base Development & Maintenance, Process Mapping, Technical Diagram Creation, System Architecture & Network Diagramming
+    - **Key Skills Demonstrated:** Azure Virtual Machines & Resource Groups, Windows 10/11, macOS, RDP, VPN Configuration & Troubleshooting, Remote Access Administration, Network Troubleshooting, TCP/IP & OSI Model, Endpoint Security & Compliance, Identity & Access Management (IAM), Data Privacy, Technical Documentation, Knowledge Base Development, Process Mapping, System & Network Diagramming
     
