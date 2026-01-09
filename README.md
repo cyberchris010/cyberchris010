@@ -12,7 +12,7 @@ Results-driven, adaptable IT professional with hands-on experience in system adm
     
     - [**Inspecting Network Protocols with Azure Virtual Machines, PowerShell, and Wireshark**](https://github.com/cyberchris010/azure-protocols)
     
-  - **Key Skills Demonstrated:** Cloud Computing, Cloud Infrastructure, Azure Compute, Azure Resource Groups, Azure Virtual Machines, VNets, Windows Server Administration, Microsoft Windows, Ubuntu Server, PowerShell, Wireshark, Network Security Groups (NSGs), Network Troubleshooting, Packet Analysis, Internet Protocol Suite (TCP/IP), OSI Model, ICMP, DHCP, RDP, SSH, DNS, HTTP, HTTPS
+  - **Key Skills Demonstrated:** Cloud Computing, Cloud Infrastructure, Azure Compute, Azure Resource Groups, Azure Virtual Machines, VNets, Windows Server Administration, Microsoft Windows, Ubuntu Server, macOS, PowerShell, Wireshark, Network Security Groups (NSGs), Network Troubleshooting, Packet Analysis, Internet Protocol Suite (TCP/IP), OSI Model, ICMP, DHCP, RDP, SSH, DNS, HTTP, HTTPS
 
 ---
 
@@ -26,7 +26,7 @@ Results-driven, adaptable IT professional with hands-on experience in system adm
     
     - [**osTicket - Ticket Lifecycle Examples**](https://github.com/cyberchris010/osticket-lifecycle)
  
-  - **Key Skills Demonstrated:** RDP, Azure Resource Groups, Azure Virtual Machines, Microsoft Windows, Software Installation, Internet Information Services (IIS), Help Desk & Ticketing Systems, Service Level Agreements (SLAs), Ticket Prioritization, Help Desk Support, User Support, Desktop Support, Communication, Customer Service, Empathy, Documentation, Technical Writing, Research Skills, Project Management, Troubleshooting
+  - **Key Skills Demonstrated:** macOS, RDP, Azure Resource Groups, Azure Virtual Machines, Microsoft Windows, Software Installation, Internet Information Services (IIS), Help Desk & Ticketing Systems, Service Level Agreements (SLAs), Ticket Prioritization, Help Desk Support, User Support, Desktop Support, Communication, Customer Service, Empathy, Documentation, Technical Writing, Research Skills, Project Management, Troubleshooting
 
 ---
 
@@ -46,7 +46,7 @@ Results-driven, adaptable IT professional with hands-on experience in system adm
       
       - [**Understanding DNS with Active Directory**](https://github.com/cyberchris010/ad-dns)
  
-  - **Key Skills Demonstrated:** Azure Virtual Machines, Windows Server, Active Directory, Active Directory Domain Services (AD DS), Active Directory Organizational Units (OUs), Group Policy, File Systems, Active Directory Security Groups, Network File Shares, User Management, User and Group Management, Permissions and Access Control, Password Resets, Identity and Access Management (IAM), PowerShell Scripting, Microsoft Event Viewer, DNS (Domain Name System), DNS Records, DNS Cache, Network Troubleshooting
+  - **Key Skills Demonstrated:** Azure Virtual Machines, macOS, Windows Server, Active Directory, Active Directory Domain Services (AD DS), Active Directory Organizational Units (OUs), Group Policy, File Systems, Active Directory Security Groups, Network File Shares, User Management, User and Group Management, Permissions and Access Control, Password Resets, Identity and Access Management (IAM), PowerShell Scripting, Microsoft Event Viewer, DNS (Domain Name System), DNS Records, DNS Cache, Network Troubleshooting
 
  ---
     
@@ -56,6 +56,6 @@ Results-driven, adaptable IT professional with hands-on experience in system adm
   
       - [**VPN Setup and Usage (Proton VPN) within an Azure Virtual Machine**](https://github.com/cyberchris010/vpn-deploy)
  
-  - **Key Skills Demonstrated:** Azure Compute, Azure Resource Groups, Azure Virtual Machines, RDP, Microsoft Windows, Software Installation, Desktop Application Support, Network Troubleshooting, Virtual Private Networks (VPNs), Information Security
+  - **Key Skills Demonstrated:** Azure Compute, Azure Resource Groups, Azure Virtual Machines, macOS, RDP, Microsoft Windows, Software Installation, Desktop Application Support, Network Troubleshooting, Virtual Private Networks (VPNs), Information Security
     
 ---
