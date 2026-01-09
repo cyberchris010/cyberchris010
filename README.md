@@ -46,7 +46,7 @@ Results-driven, adaptable IT professional with hands-on experience in system adm
       
       - [**Understanding DNS with Active Directory**](https://github.com/cyberchris010/ad-dns)
  
-  - **Key Skills Demonstrated:** Azure Virtual Machines, Windows Server, Active Directory, Active Directory Domain Services (AD DS), Active Directory Organizational Units (OUs), Group Policy, File Systems, Active Directory Security Groups, Network File Shares, User Management, User and Group Management, Permissions and Access Control, Password Resets, Identity and Access Management (IAM), PowerShell, Microsoft Event Viewer, DNS (Domain Name System), DNS Records, DNS Cache, Network Troubleshooting
+  - **Key Skills Demonstrated:** Azure Virtual Machines, Windows Server, Active Directory, Active Directory Domain Services (AD DS), Active Directory Organizational Units (OUs), Group Policy, File Systems, Active Directory Security Groups, Network File Shares, User Management, User and Group Management, Permissions and Access Control, Password Resets, Identity and Access Management (IAM), PowerShell Scripting, Microsoft Event Viewer, DNS (Domain Name System), DNS Records, DNS Cache, Network Troubleshooting
 
  ---
     
