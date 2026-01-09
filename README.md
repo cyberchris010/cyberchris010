@@ -31,7 +31,7 @@ Results-driven, adaptable IT professional with hands-on experience in system adm
 
 - <h3>🔐 Active Directory, Identity & Access Management (IAM), DNS Troubleshooting</h3>
 
-   - Executed step-by-step, technical tutorials for the cloud-based installation and deployment of Active Directory (AD) and Active Directory Domain Services (AD DS) on Windows Server, including Help Desk simulations covering Windows 10 user creation, role assignments, security group management, user permissions, file share management, DNS integration, and DNS troubleshooting:
+   - Executed step-by-step, technical tutorials for the cloud-based installation and deployment of Active Directory (AD) and Active Directory Domain Services (AD DS) on Windows Server, including Help Desk simulations covering Windows 10 user creation, role assignments, security group management, user permissions, file share management, and DNS troubleshooting:
   
       - [**Preparing Active Directory Infrastructure with Azure Virtual Machines**](https://github.com/cyberchris010/ad-prepare)
       
