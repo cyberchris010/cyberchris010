@@ -1,6 +1,6 @@
 <h1>Hi, I'm Chris, an IT Professional</a> 👨‍🔧</h1>
 
-Results-driven, adaptable IT professional with hands-on experience in system administration, cloud infrastructure, and network security. Proficient in Microsoft Azure, PowerShell scripting, Identity and Access Management (IAM), Active Directory, Virtual Machines (VMs), and Help Desk Support (Windows, Linux, macOS, ticketing systems). Skilled in troubleshooting complex technical issues and deploying secure, scalable, and resilient IT solutions to ensure business continuity.
+Results-driven, adaptable IT professional with hands-on experience in technical writing, system administration, cloud infrastructure, and network security. Proficient in Microsoft Azure, PowerShell scripting, Identity and Access Management (IAM), Active Directory, Virtual Machines (VMs), and Help Desk Support (Windows, Linux, macOS, ticketing systems). Skilled in troubleshooting complex technical issues and deploying secure, scalable, and resilient IT solutions to ensure business continuity.
 
 <h2>👨‍💻 Information Technology Projects:</h2>  
 
