@@ -6,7 +6,7 @@ Results-driven, adaptable IT professional with hands-on experience in system adm
 
 - <h3>☁️ Microsoft Azure & Network Troubleshooting 🕵️‍♂️</h3>
 
-  - Cloud-based demonstration, using Azure Virtual Machines, Windows Server, Ubuntu Server, Powershell, and Wireshark to simulate network troubleshooting and security fundamentals:
+  - Cloud-based demonstration, using Azure Virtual Machines, Windows Server, Ubuntu Server, Powershell, and Wireshark to simulate network troubleshooting and security basics:
   
     - [**Creating and Deleting Resources in Microsoft Azure**](https://github.com/cyberchris010/azure-resources)
     
