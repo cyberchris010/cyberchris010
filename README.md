@@ -29,7 +29,7 @@ Results-driven, adaptable IT professional with hands-on experience in system adm
   - **Key Skills Demonstrated:** macOS, RDP (Remote Desktop Protocol), Azure Resource Groups, Azure Virtual Machines, Microsoft Windows 10, Windows 11, Software Installation, Internet Information Services (IIS), IIS Web Server Configuration, PHP Configuration on Windows, MySQL / MariaDB Database Administration, HeidiSQL Database Management, Database Schema Creation & Configuration, Web Application Deployment (Windows), Firewall & Port Configuration (Azure / Windows), Application Configuration & Troubleshooting, IT Service Management (ITSM) Tools, osTicket, Help Desk Ticketing System Administration, Help Desk Ticket Management, Incident Management & Ticket Lifecycle Management, Service Level Agreements (SLA) Management, Ticket Prioritization & Escalation, Customer Service & End-User Support, Empathy, Research Skills, Project Management, Troubleshooting, Problem Solving, Technical Communication, Technical Documentation & Standard Operating Procedures (SOPs), Knowledge Base Development & Maintenance, Process Mapping
 ---
 
-- <h3>🔐 Active Directory, Identity & Access Management (IAM) & DNS Troubleshooting</h3>
+- <h3>🔐 Active Directory, Identity & Access Management (IAM), DNS Troubleshooting</h3>
 
    - Executed step-by-step, technical tutorials for the cloud-based installation and deployment of Active Directory (AD) and Active Directory Domain Services (AD DS) on Windows Server, including Help Desk simulations covering Windows 10 user creation, role assignments, security group management, user permissions, file share management, DNS integration, and DNS troubleshooting:
   
