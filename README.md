@@ -49,7 +49,7 @@ Results-driven, adaptable IT professional with hands-on experience in system adm
 
  ---
     
-- <h3>🛡️ Implementing Virtual Private Networks (VPNs)</h3>
+- <h3>🛡️ Virtual Private Networks (VPNs)</h3>
 
   - Practical implementation, installation, configuration, and management of Virtual Private Network (VPN) client software within a Microsoft Windows 10 Azure Virtual Machine, including VPN connectivity testing and troubleshooting:
   
