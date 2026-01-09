@@ -26,7 +26,7 @@ Results-driven, adaptable IT professional with hands-on experience in system adm
     
     - [**osTicket - Ticket Lifecycle Examples**](https://github.com/cyberchris010/osticket-lifecycle)
  
-  - **Key Skills Demonstrated:** RDP, Azure Resource Groups, Azure Virtual Machines, Microsoft Windows, Software Installation, Internet Information Services (IIS), Ticketing Systems, Service Level Agreements (SLAs), Ticket Prioritization, Help Desk Support, User Support, Desktop Support, Communication, Customer Service, Documentation, Research Skills, Project Management, Troubleshooting
+  - **Key Skills Demonstrated:** RDP, Azure Resource Groups, Azure Virtual Machines, Microsoft Windows, Software Installation, Internet Information Services (IIS), Ticketing Systems, Service Level Agreements (SLAs), Ticket Prioritization, Help Desk Support, User Support, Desktop Support, Communication, Customer Service, Empathy, Documentation, Research Skills, Project Management, Troubleshooting
 
 ---
 
@@ -46,7 +46,7 @@ Results-driven, adaptable IT professional with hands-on experience in system adm
       
       - [**Understanding DNS with Active Directory**](https://github.com/cyberchris010/ad-dns)
  
-  - **Key Skills Demonstrated:** Azure Virtual Machines, Windows Server, Active Directory, Active Directory Domain Services, Active Directory Organizational Units (OUs), Group Policy, File Systems, Active Directory Security Groups, Network File Shares, PowerShell, Microsoft Event Viewer, DNS (Domain Name System), DNS Records, DNS Cache
+  - **Key Skills Demonstrated:** Azure Virtual Machines, Windows Server, Active Directory, Active Directory Domain Services, Active Directory Organizational Units (OUs), Group Policy, File Systems, Active Directory Security Groups, Network File Shares, User Management, Permissions, Password Resets, Identity and Access Management (IAM), PowerShell, Microsoft Event Viewer, DNS (Domain Name System), DNS Records, DNS Cache, Network Troubleshooting
 
  ---
     
