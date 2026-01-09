@@ -30,7 +30,7 @@ Results-driven, adaptable IT professional with hands-on experience in system adm
 
 ---
 
-- <h3>🔐 Active Directory</h3>
+- <h3>🔐 Active Directory: User Management, Permissions, DNS</h3>
 
    - Cloud-based installation and deployment of Active Directory and Active Directory Domain Services on Windows Server, including Help Desk simulations of user creation, role assignments, security group management, permissions, and DNS troubleshooting:
   
