@@ -12,8 +12,7 @@ Results-driven, adaptable IT professional with hands-on experience in system adm
     
     - [**Inspecting Network Protocols with Azure Virtual Machines, PowerShell, and Wireshark**](https://github.com/cyberchris010/azure-protocols)
     
-  - **Key Skills Demonstrated:** Cloud Computing, Cloud Infrastructure, Azure Compute, Azure Resource Groups, Azure Virtual Machines, VNets, Windows Server Administration, Microsoft Windows, Ubuntu Server, Linux, macOS, PowerShell, Wireshark, Network Security Groups (NSGs), Network Troubleshooting, Packet Analysis, Internet Protocol Suite (TCP/IP), OSI Model, ICMP, DHCP, RDP, SSH, DNS, HTTP, HTTPS
-
+  - **Key Skills Demonstrated:** Cloud Computing, Cloud Infrastructure, Azure Compute, Azure Resource Groups, Azure Virtual Machines, VNets, Windows Server Administration, Microsoft Windows, Ubuntu Server, Linux, macOS, PowerShell, Wireshark, Network Security Groups (NSGs), Network Troubleshooting, Packet Analysis, Internet Protocol Suite (TCP/IP), OSI Model, ICMP, DHCP, RDP, SSH, DNS
 ---
 
 - <h3>🏷️ osTicket (Help Desk Ticketing System)</h3>
