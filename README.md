@@ -57,4 +57,3 @@ Results-driven, adaptable IT professional with hands-on experience in system adm
  
   - **Key Skills Demonstrated:** Azure Compute, Azure Resource Groups, Azure Virtual Machines, macOS, RDP (Remote Desktop Protocol), Microsoft Windows 10, Windows 11, Software Installation, Desktop Application Support, Virtual Private Networks (VPNs), VPN Client Installation & Configuration (Windows), Windows VPN Troubleshooting, Remote Access VPN, VPN Client Software Support, Network Troubleshooting, Connectivity Troubleshooting, TCP/IP Protocol Suite, OSI Model, Endpoint Security & Compliance, Identity & Access Management (IAM), Remote Access Administration, Secure Remote Access, Data Privacy, Technical Documentation, Knowledge Base Development & Maintenance, Process Mapping, Technical Diagram Creation, System Architecture & Network Diagramming
     
----
